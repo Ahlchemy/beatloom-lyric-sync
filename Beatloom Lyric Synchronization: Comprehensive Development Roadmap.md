@@ -1,6 +1,6 @@
 # Beatloom Lyric Synchronization: Comprehensive Development Roadmap
 
-**Author**: Manus AI  
+**Author**: Dean Algren  
 **Date**: September 12, 2025  
 **Version**: 1.0
 

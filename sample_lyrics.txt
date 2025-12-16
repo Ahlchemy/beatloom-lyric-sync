@@ -1,7 +1,0 @@
-Hello world this is a test song
-With lyrics that we want to synchronize
-Every word should have a timing
-That matches when it's sung in the audio
-This is just a sample for testing
-The Beatloom synchronization system
-

@@ -7,12 +7,12 @@ A modular pipeline for accurate lyric-to-audio synchronization using:
 3. Confidence scoring
 4. Output generation for Beatloom
 
-Author: Manus AI
+Author: Dean Algren
 Version: 1.0.0
 """
 
 __version__ = "1.0.0"
-__author__ = "Manus AI"
+__author__ = "Dean Algren"
 
 from .vocal_separator import VocalSeparator
 from .forced_aligner import ForcedAligner
