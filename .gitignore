@@ -1,0 +1,57 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Audio/Video files (large binaries)
+audio/*.wav
+audio/*.mp3
+audio/renders/
+*.mp4
+*.m4a
+*.flac
+*.ogg
+
+# Output directories
+output/
+output-sofa/
+output_sofa/
+video_output/
+temp/
+screenshots/
+
+# Model files (large)
+models/
+*.ckpt
+*.pt
+*.pth
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# SOFA training data
+SOFA/raw_data/
+SOFA/binary/
+SOFA/ckpt/
+SOFA/segments/
